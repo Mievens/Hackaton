@@ -7,7 +7,7 @@ const { member } = Astro.props;
     <div class="profilepic">
       <img
         alt=""
-        src={member.data.pic}
+        src={member.data.pic.src}
         width={300}
         height={300}
         alt={`Profile pic of ${member.data.name}`}
