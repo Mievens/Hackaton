@@ -1,3 +1,8 @@
+Namen: Britt Wittouck, 
+Ibe Kimpe, 
+Luca Hauspie, 
+Margot Lievens
+
 # CCK
 
 ## Design
