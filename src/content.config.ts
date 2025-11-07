@@ -35,8 +35,8 @@ const newsCollection = defineCollection({
   schema: () =>
     z.object({
       title: z.string(),
-      date: z.string(),
-      author: z.string(),
+      date: z.string(),       // altijd als string in frontmatter
+      author: z.string(),     // verplicht
     }),
 });
 

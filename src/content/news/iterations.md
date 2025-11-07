@@ -1,6 +1,7 @@
 ---
-title: Iterations
-date: 2025-10-27
+title: "Iterations"
+date: "2025-10-27"
+author: "Student 3"
 ---
 
 Our friends of [Creative Coding Utrecht](https://creativecodingutrecht.nl) are organising a new edition of [Iterations](https://iterations.online/). This time, the event will take place at Design Museum Den Bosch, but you can also attend online.
