@@ -14,7 +14,10 @@ const { member } = Astro.props;
       />
     </div>
   </div>
-  <p class="name"><a href={`/team/${member.data.id}`}>{member.data.name}</a></p>
+  <p class="name">
+    <a href={`${import.meta.env.BASE_URL}/team/${member.data.id}`}
+      >{member.data.name}</a>
+  </p>
   <p class="function">{member.data.function}</p>
   <p class="bio">{member.data.bio}</p>
 </article>
