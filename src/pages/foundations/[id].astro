@@ -15,14 +15,14 @@ const { Content } = await render(post);
 ---
 
 <Markdown>
-  <a href="/#foundations">Foundations</a>
-  <h2><span>{post.data.title}</span></h2>
- <Content />
+    <a href={`${import.meta.env.BASE_URL}/#foundations`}>Foundations</a>
+    <h2><span>{post.data.title}</span></h2>
+    <Content />
 </Markdown>
 
 <style>
-  a {
-    display: block;
-    margin-bottom: var(--sp-m);
-  }
+    a {
+        display: block;
+        margin-bottom: var(--sp-m);
+    }
 </style>
