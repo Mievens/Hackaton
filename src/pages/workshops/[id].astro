@@ -1,6 +1,5 @@
 ---
 import Markdown from "../../layouts/Markdown.astro";
-import Image from "astro/components/Image.astro";
 import { getCollection, render } from "astro:content";
 
 // 1. Generate a new path for every collection entry
@@ -28,7 +27,7 @@ const { Content } = await render(workshop);
     <img
       width="300"
       height="300"
-      src=<Image/>
+      src= {workshop.data.image.src}
       alt="workshop image"
       class="image"
     />
