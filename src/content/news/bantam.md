@@ -1,7 +1,6 @@
 ---
 title: "Bantam Tools Acquires Evil Mad Scientist"
 date: "2024-03-18"
-author: "Student 1"
 ---
 
 Bantam tools, the desktop CNC manufacturer that builds exceptional computer controlled machines for innovators, has acquired Evil Mad Scientist, the company well known for their AxiDraw drawing robots.

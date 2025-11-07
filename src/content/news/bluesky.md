@@ -1,7 +1,6 @@
 ---
 title: "On Bluesky yet?"
 date: "2025-01-12"
-author: "Student 2"
 ---
 
 Bluesky is getting a lot of attention these days. Time will tell if it's just a fad or if it's here to stay.
